@@ -1,0 +1,34 @@
+body
+{
+    background-image: url(web.jpg);
+    color: white;
+}
+.a1{
+    text-align: center;
+    color: rgb(131, 226, 14);
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.wrapper{
+    margin-left: 450px;
+    margin-right: 450px;
+    background-color: rgb(246, 193, 153);
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-radius: 15px;
+}
+.a{
+    margin-left: 100px;
+}
+.submit{
+    text-align: center;
+}
+.dob{
+    margin-left: 420px;
+}
